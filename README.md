@@ -1,5 +1,3 @@
-![app image](data/app.pdf.jpg)
-
 # Mushroom Classification Web App Documentation
 
 ## Overview
@@ -70,3 +68,5 @@ The dataset includes descriptions of hypothetical mushroom samples corresponding
 ## Conclusion
 
 The Mushroom Classification Web App provides an interactive and user-friendly interface for classifying mushrooms using machine learning. With adjustable hyperparameters and visual performance metrics, it serves as a valuable tool for both educational and practical purposes.
+
+![app image](data/app.pdf.jpg)
