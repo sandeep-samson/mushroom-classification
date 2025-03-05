@@ -1,3 +1,5 @@
+![app image](data/app.pdf.jpg)
+
 # Mushroom Classification Web App Documentation
 
 ## Overview
